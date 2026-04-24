@@ -178,7 +178,3 @@ For technical support or questions about the system:
 - Mobile-responsive application
 - API integration for external systems
 
----
-
-**Developed for SRS Electrical Appliances**
-*Version 1.0 - 2024*
